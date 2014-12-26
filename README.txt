@@ -7,6 +7,6 @@ Have fun playing with pink building blocks and no more wishing they wouldn't foc
 
 The items included..
 
-pink wood,cactus,ladders,chest,sand,bricks,tree,cobble,stone,tools(like picks,axes,shovels,swords),hearts,saplings.
+pink wood,cactus,ladders,chest,sand,bricks,tree,cobble,stone,tools(like picks,axes,shovels,swords),hearts and saplings.
 
 
